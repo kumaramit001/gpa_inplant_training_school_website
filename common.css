@@ -1,0 +1,116 @@
+.header{
+    background:linear-gradient(30deg,green 0%,green 20%,green 40%,white 80%,white 100%);
+}
+.header1 img{
+    margin:20px 0 20px 0px;
+    height:70px;
+    width:350px;
+}
+.Admission{
+    border-radius:10px;
+    margin: 30px 0 30px 0;
+    border:solid 1px green;
+
+}
+.Admission h5{
+    text-align: center;
+    font-size: 16px;
+    padding: 2px 0 2px 0;
+}
+.Admission h5 a{
+    text-decoration: none;
+    color: #000;
+}
+.Admission:hover{
+    background: green;
+    color:#fff;
+}
+.marqueearea{
+    background: red;
+    height:30px;
+}
+.marqueearea p a{
+    color:#fff;
+    text-decoration:none;
+}
+.namearea{
+    background:#F0F0F0;
+}
+.logoarea{
+    background:transparent;
+}
+.logoarea img{
+    height:150px;
+    width:150px;
+    margin:25px 0 0 130px;
+}
+.title{
+    background:transparent;
+}
+.titlearea h2{
+    text-align: center;
+    margin: 30px 0 0 0;
+    padding-left: 80px;
+    font:bold 40px serif;
+}
+.titletext p{
+    text-align: center;
+    padding-left: -20px;
+}
+.menuarea ul li{
+    margin: 0 0 0 40px;
+}
+.nav-link:hover{
+    color:green !important;
+}
+.footerarea{
+    background: green;
+    padding: 30px 0 30px 0;
+}
+.f1{
+    color:#FFF;
+}
+.f1 hr{
+    margin-left:-5px;
+}
+.f2{
+    color:#FFF;
+}
+.f2 hr{
+    margin-left:-5px;
+}
+.f2 ul{
+    list-style: none;
+    margin-left:-25px;
+}
+.f2 ul li{
+        line-height: 30px;
+}
+.f2 ul li a{
+        color:#FFF;
+        text-decoration: none;
+}
+
+.f2 ul li a:hover{
+    color:red;
+}
+.f3{
+    color:#FFF;
+}
+.f3 hr{
+    margin-left:-5px;
+}
+.f3 ul{
+    list-style: none;
+    margin-left:-25px;
+}
+.f3 ul li{
+        line-height: 40px;
+}
+.f3 ul li a{
+        color:#FFF;
+        text-decoration: none;
+}
+.f3 ul li a:hover{
+    color:red;
+}

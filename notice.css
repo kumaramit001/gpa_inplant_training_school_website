@@ -1,0 +1,54 @@
+.intro{
+    padding: 30px 0 20px 0;
+    background: url('background.jpg');
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+    background-size: 100% 100%;
+}
+.b1{			
+    background:#000;
+    padding:0px 20px;
+    border-radius:10px;
+}
+.b2{			
+    background:#000;
+    padding:0px 10px;
+    border-right:solid 5px #FFF;
+    border-left:solid 5px #FFF;
+    
+}
+.b3{			
+    background:#000;
+    padding:0px 5px;
+    border-right:solid 5px #FFF;
+    border-left:solid 5px #FFF;
+    overflow: hidden;
+    
+}
+.b3 h1{
+    color: #FFF;
+    text-align: center;
+    padding-top:10px;
+}
+.N1{
+    padding: 30px 0 10px 30px;
+    background:#FFF;
+    border-radius: 10px;
+    border: solid 1px black;
+    opacity: 0.8;
+    margin-bottom: 10px;
+}
+.N1 h4{
+    padding: 20px 0 0 15px;
+}
+.N1 p{
+    padding: 10px 30px 0 30px;
+}
+.N2{
+    background: #FFF;
+    padding: 25px 0 0 240px;
+    border-radius: 5px;
+}
+.N2 h5{
+    padding: 5px 0 0 27px;
+}
